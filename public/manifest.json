@@ -5,13 +5,13 @@
     {
       "src": "favicon.png",
       "sizes": "64x64",
-      "type": "image/png"
+      "type": "image/png",
       "purpose": "any"
     },
     {
       "src": "applelogo.png",
       "type": "image/png",
-      "sizes": "180x180",
+      "sizes": "180x180"
     },
     {
       "src": "logo192.png",
