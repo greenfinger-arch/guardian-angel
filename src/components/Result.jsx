@@ -235,10 +235,6 @@ const MessageSection = styled(motion.div)`
   margin-top: 25px;
 `;
 
-const AdviceBox = styled.div`
-  /* advice-box 스타일을 advice-box 클래스로 유지하거나 아래처럼 정의 */
-`;
-
 const ButtonGroup = styled.div`
   display: flex;
   flex-direction: column;
